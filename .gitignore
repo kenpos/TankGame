@@ -72,3 +72,20 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+###################################
+# Unreal Engine Generated Files   #
+###################################
+BTP/Build
+BTP/Binaries
+BTP/DervedDataCatch
+BTP/Intermediate
+BTP/Saved
+BTP/Content/StarterContent
+
+###################################
+# Visula Studio Generated Files   #
+###################################
+BTP/*.VC.db
+BTP/.vs
